@@ -1,3 +1,7 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseurl = ""
+relativeurls = true
+uglyurls = true
+languageCode = "nb-no"
 title = "My New Hugo Site"
+
+theme="etch"
